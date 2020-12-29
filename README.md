@@ -8,6 +8,8 @@ This app fetch news from API and show using recycler view . Also using Volley li
 
 ![PicsArt_12-29-01 21 05](https://user-images.githubusercontent.com/76722178/103268605-bf3b5680-49d9-11eb-9d45-b9afdcfca9a0.jpg)
 
+![PicsArt_12-29-01 38 56](https://user-images.githubusercontent.com/76722178/103269278-800e0500-49db-11eb-8cae-8b9fab720c7d.jpg)
+
 ![PicsArt_12-29-01 22 13](https://user-images.githubusercontent.com/76722178/103268606-bfd3ed00-49d9-11eb-852a-a36ca8ea649a.jpg)
 
 ![PicsArt_12-29-01 23 28](https://user-images.githubusercontent.com/76722178/103268607-bfd3ed00-49d9-11eb-830b-1eea154de91b.jpg)
