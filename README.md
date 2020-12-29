@@ -3,6 +3,8 @@ This app fetch news from API and show using recycler view . Also using Volley li
 
 https://user-images.githubusercontent.com/76722178/103263773-dcb6f300-49ce-11eb-85ed-a7a300f6f04a.mp4
 
+# User interace looks like >>>>
+
 ![IMG_20201228_115827](https://user-images.githubusercontent.com/76722178/103263988-5bac2b80-49cf-11eb-881f-7774017443cf.jpg)
 
 ![IMG_20201228_115927](https://user-images.githubusercontent.com/76722178/103263990-5c44c200-49cf-11eb-9656-ce7d5f13792d.jpg)
