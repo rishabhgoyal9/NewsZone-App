@@ -2,7 +2,7 @@
 This app fetch news from API and show using recycler view . Also using Volley library , Picasso library and Chrome Custom tabs , Spinner and many more..
 
 
-# User interace looks like >>>>
+# User Interface looks like >>>>
 https://user-images.githubusercontent.com/76722178/103269389-c2374680-49db-11eb-8224-1859a8a8969b.mp4
 
 ![PicsArt_12-29-01 16 10](https://user-images.githubusercontent.com/76722178/103268610-c1051a00-49d9-11eb-84c4-967ec2d9ac2a.jpg)
